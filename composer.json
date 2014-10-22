@@ -1,0 +1,15 @@
+{
+    "name": "nightmare-8495/twig",
+    "description": "php2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Damien HULIN",
+            "email": "lempiredesaladin@hotmail.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "twig/twig": "~1.0"
+    }
+}
